@@ -549,7 +549,7 @@
 /obj/item/clothing/head/reindeer
 	name = "reindeer antlers"
 	desc = "A set of costume antlers with a glowing red nose, an Old Earth favorite."
-	icon_state = "reindeer0"
+	icon_state = "reindeer"
 	action_button_name = "Toggle Nose"
 
 /obj/item/clothing/head/reindeer/attack_self(mob/user as mob)
